@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/toastic_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_success"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/toastic_icon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        android:contentDescription="@string/toastic_image_content_description"
+        android:src="@drawable/success" />
+
+    <TextView
+        android:id="@+id/toastic_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="10dp"
+        android:textColor="#000000"
+        tools:text="Hi! This is the sample toast example" />
+
+</LinearLayout>
+
+
