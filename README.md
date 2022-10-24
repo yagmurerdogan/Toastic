@@ -158,9 +158,8 @@ isIconAnimated = false
 
 # 🧜🏻‍♀️  Sample App
 
-<p align="center" >
-<img src="https://user-images.githubusercontent.com/47380312/197563617-8dd4ff57-7889-4451-ae90-8152d65af2c9.gif" width="30%"/>
-</p> 
+https://user-images.githubusercontent.com/47380312/197612088-1bf309ed-2553-4d9e-a372-88b09336e65c.mp4
+
 
 # 🛼 Thanks for [Icons](https://www.flaticon.com/)
 
