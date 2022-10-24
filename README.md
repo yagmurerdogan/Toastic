@@ -159,12 +159,13 @@ isIconAnimated = false
 # 🧜🏻‍♀️  Sample App
 
 <p align="center" >
-<img src="https://user-images.githubusercontent.com/47380312/197580813-5a0201e6-c589-4911-9455-dc06c03aaa39.png" width="30%"/>
-</p><br>
-
-<p align="center" >
 <img src="https://user-images.githubusercontent.com/47380312/197563617-8dd4ff57-7889-4451-ae90-8152d65af2c9.gif" width="30%"/>
 </p> 
+
+# 🛼 Thanks for [Icons](https://www.flaticon.com/)
+
+<img src="https://user-images.githubusercontent.com/47380312/197574914-2be1036f-8b04-4c31-ab25-40c14c43911b.png" a href= "https://www.flaticon.com/free-icons/tick" width="10%"><img src="https://user-images.githubusercontent.com/47380312/197576339-5f8f12c6-6deb-4d6f-bd5e-46e22a2f01df.png" a href= "https://www.flaticon.com/free-icons/error" width="10%"><img src="https://user-images.githubusercontent.com/47380312/197576285-1f5186fe-d61c-4148-a91c-d861d2311531.png" a href= "https://www.flaticon.com/free-icons/warning" width="10%"><img src="https://user-images.githubusercontent.com/47380312/197576050-ea0be80f-ba0a-4204-8a01-af481a2a78fc.png" a href= "https://www.flaticon.com/free-icons/info" width="10%">
+
 
 # 📚 License
 ```xml
