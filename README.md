@@ -165,6 +165,14 @@ https://user-images.githubusercontent.com/47380312/197612088-1bf309ed-2553-4d9e-
 
 <img src="https://user-images.githubusercontent.com/47380312/197574914-2be1036f-8b04-4c31-ab25-40c14c43911b.png" a href= "https://www.flaticon.com/free-icons/tick" width="10%"><img src="https://user-images.githubusercontent.com/47380312/197576339-5f8f12c6-6deb-4d6f-bd5e-46e22a2f01df.png" a href= "https://www.flaticon.com/free-icons/error" width="10%"><img src="https://user-images.githubusercontent.com/47380312/197576285-1f5186fe-d61c-4148-a91c-d861d2311531.png" a href= "https://www.flaticon.com/free-icons/warning" width="10%"><img src="https://user-images.githubusercontent.com/47380312/197576050-ea0be80f-ba0a-4204-8a01-af481a2a78fc.png" a href= "https://www.flaticon.com/free-icons/info" width="10%">
 
+<a href="https://www.flaticon.com/free-icons/tick" title="tick icons">Tick icons created by Alfredo Hernandez - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/error" title="error icons">Error icons created by Ilham Fitrotul Hayat - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/warning" title="warning icons">Warning icons created by Creatype - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/info" title="info icons">Info icons created by Plastic Donut - Flaticon</a>
+
 # 🌍 Contribution 
 
 Please feel free to contribute! 
