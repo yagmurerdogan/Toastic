@@ -17,7 +17,7 @@
                     duration = Toastic.LENGTH_SHORT,
                     type = Toastic.SUCCESS,
                     isIconAnimated = true
-                )
+                ).show()
             }
 ```
 ## 🔵  Info Toastic
@@ -34,7 +34,7 @@
                     duration = Toastic.LENGTH_SHORT,
                     type = Toastic.INFO,
                     isIconAnimated = true
-                )
+                ).show()
             }
 ```
 ## 🟡 Warning Toastic
@@ -51,7 +51,7 @@
                     duration = Toastic.LENGTH_SHORT,
                     type = Toastic.WARNING,
                     isIconAnimated = true
-                )
+                ).show()
             }
 ```
 ## 🔴 Error Toastic
@@ -68,7 +68,7 @@
                     duration = Toastic.LENGTH_SHORT,
                     type = Toastic.ERROR,
                     isIconAnimated = true
-                )
+                ).show()
             }
 ```
 ## ⚫️ Default Toastic
@@ -85,7 +85,7 @@
                     duration = Toastic.LENGTH_SHORT,
                     type = Toastic.DEFAULT,
                     isIconAnimated = true
-                )
+                ).show()
             }
 ```
 # 💁🏻‍♀️ Can I customize the Toastic more?
@@ -114,7 +114,7 @@
                     customBackground = R.drawable.bg_pink,
                     textColor = Color.WHITE,
                     customIconAnimation = R.anim.rotate
-                )
+                ).show()
             }
 ```
 
