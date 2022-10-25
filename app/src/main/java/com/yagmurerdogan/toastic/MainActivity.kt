@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
                     customIcon = if (setCustomIcon) R.drawable.ic_custom_icon else null,
                     textColor = if (changeTextColor) Color.BLUE else null,
                     customIconAnimation = if (setCustomIconAnim) R.anim.rotate else null
-                )
+                ).show()
             }
 
             warningBtn.setOnClickListener {
@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
                     customIcon = if (setCustomIcon) R.drawable.ic_custom_icon else null,
                     textColor = if (changeTextColor) Color.BLUE else null,
                     customIconAnimation = if (setCustomIconAnim) R.anim.rotate else null
-                )
+                ).show()
             }
 
             errorBtn.setOnClickListener {
@@ -81,7 +81,7 @@ class MainActivity : AppCompatActivity() {
                     customIcon = if (setCustomIcon) R.drawable.ic_custom_icon else null,
                     textColor = if (changeTextColor) Color.BLUE else null,
                     customIconAnimation = if (setCustomIconAnim) R.anim.rotate else null
-                )
+                ).show()
             }
 
             infoBtn.setOnClickListener {
@@ -95,7 +95,7 @@ class MainActivity : AppCompatActivity() {
                     customIcon = if (setCustomIcon) R.drawable.ic_custom_icon else null,
                     textColor = if (changeTextColor) Color.BLUE else null,
                     customIconAnimation = if (setCustomIconAnim) R.anim.rotate else null
-                )
+                ).show()
             }
 
             defaultBtn.setOnClickListener {
@@ -110,7 +110,7 @@ class MainActivity : AppCompatActivity() {
                     customBackground = if (setCustomBackground) R.drawable.bg_custom_toastic else null,
                     textColor = if (changeTextColor) Color.WHITE else null,
                     customIconAnimation = if (setCustomIconAnim) R.anim.rotate else null
-                )
+                ).show()
             }
         }
     }

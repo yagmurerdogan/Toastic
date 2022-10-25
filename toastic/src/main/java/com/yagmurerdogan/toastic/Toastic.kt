@@ -107,7 +107,6 @@ class Toastic(context: Context) : Toast(context) {
             val toast = Toast(context)
             toast.duration = duration
             toast.view = binding.root
-            toast.show()
             return toast
         }
 
