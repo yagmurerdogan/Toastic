@@ -4,6 +4,7 @@ import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.yagmurerdogan.toastic.databinding.ActivityMainBinding
+import com.yagmurerdogan.toasticlib.Toastic
 
 class MainActivity : AppCompatActivity() {
 

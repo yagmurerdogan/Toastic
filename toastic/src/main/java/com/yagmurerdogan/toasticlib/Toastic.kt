@@ -1,4 +1,4 @@
-package com.yagmurerdogan.toastic
+package com.yagmurerdogan.toasticlib
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.animation.AnimationUtils
 import android.widget.Toast
 import androidx.annotation.IntDef
 import androidx.core.content.res.ResourcesCompat
+import com.yagmurerdogan.toastic.R
 import com.yagmurerdogan.toastic.databinding.ToasticLayoutBinding
 
 class Toastic(context: Context) : Toast(context) {
