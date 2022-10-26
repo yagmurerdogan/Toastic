@@ -173,6 +173,19 @@ https://user-images.githubusercontent.com/47380312/197612088-1bf309ed-2553-4d9e-
 
 <a href="https://www.flaticon.com/free-icons/info" title="info icons">Info icons created by Plastic Donut - Flaticon</a>
 
+# 🌸 Implementation  
+
+```gradle  
+repositories {  
+ maven { url 'https://jitpack.io' }  
+}  
+  
+dependencies {  
+ implementation 'com.github.yagmurerdogan:Toastic:latest-version'
+}  
+```
+
+
 # 🌍 Contribution 
 
 Please feel free to contribute! 
